@@ -6,4 +6,4 @@ If you have docker compose, you can run `docker-compose up` and navigate to `htt
 
 ## Description
 
-This project is a basic demo of how to publish and consume message from a RabbitMQ Broker.
+This project is a basic demo of how to produce and consume message from a RabbitMQ Broker.
